@@ -1,0 +1,9 @@
+torch==1.13.1
+torchvision==0.14.1
+dash
+pandas
+npy-append-array
+python-dateutil
+ghalton
+hydra-core
+zerorpc

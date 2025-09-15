@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: m3p2i_aip
+Version: 0.0.1
+Author-email: Yuezhe Zhang <yuezhezhang_bit@163.com>
+Project-URL: Homepage, https://autonomousrobots.nl/paper_websites/m3p2i-aip
+Project-URL: Repository, https://github.com/tud-amr/m3p2i-aip
+Requires-Python: >=3.8
+License-File: LICENSE
+Requires-Dist: torch==1.13.1
+Requires-Dist: torchvision==0.14.1
+Requires-Dist: dash
+Requires-Dist: pandas
+Requires-Dist: npy-append-array
+Requires-Dist: python-dateutil
+Requires-Dist: ghalton
+Requires-Dist: hydra-core
+Requires-Dist: zerorpc
